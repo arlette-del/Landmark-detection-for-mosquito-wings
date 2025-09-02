@@ -9,5 +9,9 @@ It aims to sytematically analyse wing morphology using geometric morphometrics a
 - **Normalized landmark coordinates:** Annotated landmarks corresponding to each wing image, used for training and evaluation.
 
 ## Installation
-Clone the repository and install dependencies (Python 3.11 recommended):
+This Repository contains alle Skripts for Preprocessing, Training and Evaluation.
+All big datasets are available on Zenodo:
+LINK
+
+For testing a mini dataset can be found in Folder 'mini_test_data'.
 
