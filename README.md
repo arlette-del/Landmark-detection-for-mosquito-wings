@@ -15,13 +15,13 @@ This Repository contains all scripts for Preprocessing, Training and Evaluation.
 The notebooks were originally developed in Google Colab, but can be run locally as well.
 
 ### Repository Structure
-/data: placeholder for datasets (main data in Zenodo), and analysis of the dataframe, containing metadata
-/preprocessing: scrip for preprocessing, creates all Numpys for training and evaluation
-/training/
-  /training CNN: training scripts and notebooks for all experiments using CNN model
-  /training UNet: training scripts and notebooks for all experiments using UNet model
-/evaluation: jupyter notebooks for model evaluation
-/README.md project documentation
+- /data: placeholder for datasets (main data in Zenodo), and analysis of the dataframe, containing metadata
+- /preprocessing: scrip for preprocessing, creates all Numpys for training and evaluation
+- /training/
+-   /training CNN: training scripts and notebooks for all experiments using CNN model
+-   /training UNet: training scripts and notebooks for all experiments using UNet model
+- /evaluation: jupyter notebooks for model evaluation
+- /README.md: project documentation
 
 ## Dependencies
 The project requires the following Python libraries:
