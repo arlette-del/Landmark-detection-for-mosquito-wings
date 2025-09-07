@@ -8,7 +8,8 @@ It aims to systematically analyse wing morphology using geometric morphometrics 
 - **Wing images:** High-resolution images of mosquito wings from various species.
 - **Normalized landmark coordinates:** Annotated landmarks corresponding to each wing image, used for training and evaluation.
 
-Full datasets are hosted on Zenodo (LINK).
+The datasets are stored on a private Google Drive and are **not publicly accessible**.  
+They were provided exclusively for this bachelor thesis.
 
 ## Installation and Setup
 This Repository contains all scripts for Preprocessing, Training and Evaluation.
@@ -46,6 +47,7 @@ The project requires the following Python libraries:
 - google-colab (for running in Colab)
 
 ### Evaluation:
+- collections
 - pandas
 - numpy
 - matplotlib
